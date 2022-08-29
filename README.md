@@ -7,3 +7,6 @@ Through the use of NVIDIA's ` NGC GPU` I was able to create and deploy a Convers
 I opted to use 'tao' instead of `NeMO`
 To learn more about NVIDIA's `Nemo` and `tao` follow this [link](nvidia.com) </br>
 We will also take advantage of `ASR`
+| Topic | Description |
+| :--- | :---: |
+| [Introduction](https://github.com/KakaInnocent/Conversational-AI/blob/main/001_Intro_Overview.ipynb) | Introduction to NVIDIA GPU's |
