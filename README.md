@@ -10,3 +10,4 @@ We will also take advantage of `ASR`
 | Topic | Description |
 | :--- | :---: |
 | [Introduction](https://github.com/KakaInnocent/Conversational-AI/blob/main/001_Intro_Overview.ipynb) | Introduction to NVIDIA GPU's |
+| [Getting Started With Jupyter Notebooks](https://github.com/KakaInnocent/Conversational-AI/blob/main/002_Intro_JupyterLabs.ipynb) | Using Jupyter Notebooks for beginners |
